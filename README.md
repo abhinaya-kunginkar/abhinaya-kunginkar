@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinaya-kunginkar
 - 👀 I’m interested in Java, Software Development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NodeJS, PostgreSQL
 - 📫 How to reach me : abhinayakunginkar.sitcomp@gmail.com
 
 <!---
